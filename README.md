@@ -1,6 +1,6 @@
-<p align="center">
+<h2 align="center">
   <samp>👋 Hello, I am Sushmitha</samp>
-</p>
+</h2>
 
 <p align="center">
   <b>Software Engineer (3+ years) • Full Stack • Backend & Data Systems</b>
