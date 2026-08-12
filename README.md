@@ -11,7 +11,7 @@
 ## 👩‍💻 About Me
 
 - 🎓 MS in Computer Science @ University of North Texas
-- 💼 3+ years at DXC Technology working on production systems
+- 💼 ~3 years at DXC Technology working on production systems
 - ⚡ Built full-stack applications and backend data workflows
 - 🧠 Strong in problem solving, APIs, and database design
 - 🎯 Seeking Software Engineer roles
